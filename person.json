@@ -1,0 +1,15 @@
+{
+    "firstname": "Daniel",
+    "height": 167,
+    "email": "blacktea881030@gmail.com",
+    "city": {
+        "通訊地址": "新北",
+        "戶籍地址": "新北"
+    },
+    "phone": {
+        "行動電話": "0903695168"
+    },
+    "cars": [
+        "mclaren"
+    ]
+}
